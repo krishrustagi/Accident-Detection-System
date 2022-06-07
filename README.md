@@ -46,4 +46,4 @@ This program includes 4 things.
 
 ## 6. Future Work
 
-We can use an alarm system which can call the nearest police station in case of an accident and also alert them with the severity of the accident.
+We can use an alarm system that can call the nearest police station in case of an accident and also alert them of the severity of the accident.
