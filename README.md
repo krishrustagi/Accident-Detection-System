@@ -11,6 +11,8 @@
 
 ## 1. Demonstration
 
+![Demo][Demo.gif]
+
 ## 2. What is Accident Detection System?
 
 An accident Detection System is designed to detect accidents via video or CCTV footage. Road accidents are a significant problem for the whole world. Many people lose their lives in road accidents. We can minimize this issue by using CCTV accident detection. This repository majorly explores how CCTV can detect these accidents with the help of Deep Learning.
