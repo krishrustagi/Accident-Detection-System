@@ -11,7 +11,7 @@
 
 ## 1. Demonstration
 
-![Demo][Demo.gif]
+![Demo](https://user-images.githubusercontent.com/54409969/173066273-732f7da9-8645-4809-aa7a-bb2f78548b3e.gif)
 
 ## 2. What is Accident Detection System?
 
